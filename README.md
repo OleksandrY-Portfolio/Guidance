@@ -5,7 +5,7 @@
 
 🔗 **Live:** [Переглянути проєкт](https://guidance-sandy.vercel.app/)  
 📄 **Код:** [GitHub Repository](https://github.com/AlexLiberty/GuidanceServer)
-📄 **Презентація:** [Download PDF](ttps://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.pdf)
+📄 **Презентація:** [Download PDF](https://github.com/OleksandrY-Portfolio/ProjectOdesa-Demo/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB.pdf)
 
 ## 🎯 Основна ідея
 Guidance – навчальний клон платформи для бронювання житла з оновленим дизайном.  
