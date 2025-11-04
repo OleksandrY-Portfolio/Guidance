@@ -35,8 +35,7 @@ Guidance – навчальний клон платформи для броню�
 | Роль | Учасник |
 |------|--------|
 | **Back-End Developer** | **Олександр Єлєнок** |
-| Front-End Developer | Учасник(-и) команди |
-| UI/UX Designer | Учасник(-и) команди |
+| Front-End Developer | Євген Нечипуренко|
 
 ## 🔮 Подальший розвиток
 - Інтеграція платіжної системи  
@@ -83,8 +82,7 @@ The project was also an opportunity to practice teamwork, version control, and s
 | Role | Member |
 |------|--------|
 | **Back-End Developer** | **Oleksandr Yelienok** |
-| Front-End Developer | Team Member(s) |
-| UI/UX Designer | Team Member(s) |
+| Front-End Developer | Yevhen Nechypurenko |
 
 ## 🔮 Future Development
 - Adding payment integration  
